@@ -78,7 +78,8 @@ def send_request(mytoken,word,pageNumber = 0):
 # To create an access token
 # first create account  on github then visit this link to generate token - https://github.com/settings/tokens
 # Paste your Access token , Note Replace only the xxxxxxx with key and  keep "token  "
-mytoken = 'token xxxxxxxxxxxxxxxxxxxxxxxxx' #example : 'token ghp_dBuJHMxCIxXJimzJgMD1M43D24Cw'
+mytoken = 'token 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
+' #example : 'token ghp_dBuJHMxCIxXJimzJgMD1M43D24Cw'
 # Full Path to the textfile which will store the resutls 
 file  = "results.txt" #example:  "D:\\Users\\Amr\\Desktop\\github uploads\\Github Grabber\\results.txt"
 
