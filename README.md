@@ -1,19 +1,9 @@
-# Github Search : Un programme de recherche d'informations dans des projets sur Github
+# Github Search
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://dimoscore-solid-space-giggle-jxq595vvpjhj5vq.github.dev/)
 
-* Ce projet utilise un environnement de développement virtuel nommé CodeSpaces et proposé aux 
-* To save you wasting time installing everything you need to contribute to this project on your computer,
-* How to:
-  * Create a Gitpod account on [this link](https://gitpod.io),
-  * Make a fork of the ecoCodeGitpod project in your Github,
-  * Modify the link of the Gitpod icon with your repository, in the README.md file,
-  * Click on the Gitpod icon of this README.md file and follow the instructions.
+## Présentation du projet
+Un programme de recherche d'informations dans des projets sur Github
 
-## This DevBox uses
-
-* [Gitpod](https://gitpod.io) to develop code,
-* A 'docker-compose.yml' file which contains a community version of Sobarqube 9.8 and PostgreSQL 12,
-* By default, the Visual Studio Code IDE is loaded, to change it see the Gitpod doc.
-
-## Develop in One Click
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/AntoineMeheut/ecoCodeGitpod)
+* Ce projet utilise un environnement de développement virtuel nommé CodeSpaces et proposé aux développeurs par Github,
+* Le composant utilisé est écrit en Python et permet de faire des recherches dans des "repositories" de code,
+* L'objectif est de disposer d'un outil pour faire des recherches de chaînes de caractères dans du code et identifier des problèmes pour les corriger.
